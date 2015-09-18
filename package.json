@@ -1,0 +1,28 @@
+{
+  "name": "js_testing_with_jasmine",
+  "version": "1.0.0",
+  "description": "JS Testing with Jasmine",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gergob/js_testing_with_jasmine.git"
+  },
+  "keywords": [
+    "testing",
+    "javascript",
+    "jasmine"
+  ],
+  "author": "Gergo Bogdan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gergob/js_testing_with_jasmine/issues"
+  },
+  "homepage": "https://github.com/gergob/js_testing_with_jasmine#readme"
+}
